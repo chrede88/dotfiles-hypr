@@ -1,0 +1,9 @@
+theme = Catppuccin Mocha
+
+font-family = "JetBrains Mono Light"
+font-family-bold = "JetBrains Mono Light Italic"
+font-family-italic = "JetBrains Mono SemiBold"
+font-family-bold-italic = "JetBrains Mono SemiBold Italic"
+font-size = 9
+
+background-opacity = 0.95

@@ -1,0 +1,10 @@
+[mgr]
+show_hidden = true
+
+[flavor]
+use = "catppuccin-mocha"
+
+[opener]
+edit = [
+	{ run = 'zeditor "$@"', desc = "zed", block = true }
+]
